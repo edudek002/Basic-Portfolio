@@ -215,6 +215,16 @@ aside {
   background: #4aaaa5;
 }
 
+.input {
+  
+  position: relative;
+  margin: 10px;
+  left: 0px;
+  width: 570px;
+  height: 40px;
+  font-size: 20px;
+}
+
 /*Portfolio Page Boxes*/
 
 .clearfix::after{
